@@ -3,3 +3,6 @@ function someFunction() {
 		console.log('hello');
 	} 
 }
+
+
+// naw, but that first one doe
