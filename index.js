@@ -8,3 +8,6 @@ function someFunction() {
 
 // this came from the second one
 
+function blah() {
+	return 1;
+}
